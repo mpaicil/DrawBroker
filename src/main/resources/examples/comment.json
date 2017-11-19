@@ -1,0 +1,966 @@
+{
+  "currentPage": 1,
+  "pageSize": 2,
+  "totalPages": 2047,
+  "totalResults": 4093,
+  "items": [
+    {
+      "game": {
+        "gameStateId": 5271,
+        "mainGameCode": 0,
+        "gameCode": 5271,
+        "columnPrice": 100000,
+        "columnPrices": [
+          100000,
+          30000,
+          20000,
+          10000,
+          40000,
+          50000
+        ],
+        "active": null,
+        "drawNumber": 4093,
+        "virtualDrawNumber": 4093,
+        "deadline": 1510272000000,
+        "salesStart": null,
+        "salesEnd": null,
+        "originalDeadline": 1510272000000,
+        "minAllowedColumns": null,
+        "maxAllowedColumns": null,
+        "highestPrice": null,
+        "lastUpdated": null,
+        "maxMultiDraws": null
+      },
+      "id": null,
+      "drawNumber": 4093,
+      "columnPrice": 100000,
+      "drawDate": 1510272000000,
+      "status": 6,
+      "salesStart": null,
+      "salesEnd": null,
+      "winnersLoaded": null,
+      "totalColumns": null,
+      "totalColumns1": null,
+      "virtualDrawNumber": 4093,
+      "maxAdvandedDraws": 0,
+      "specialDraw": 0,
+      "jackpotAmount": 760000000,
+      "additionalJackpots": [
+        520000000,
+        130000000,
+        20000000,
+        480000000,
+        240000000
+      ],
+      "clmsPlayed": null,
+      "results": "9,41,36,32,8,25,37,4,17,26,35,28,20,38,24,3,14,8,10,18,3,34,17,13,19,37,2,6,17,3,1,25,29,9,3,23,4,5,41,21,4,14,22,37,40,3,27,9,25,3",
+      "prizes": [
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 1,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 521522031,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 2,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 3782656,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 3,
+            "selectedCategoryCd": null
+          },
+          "divident": 539470,
+          "winners": 4,
+          "winningAmount": 2157880,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 4,
+            "selectedCategoryCd": null
+          },
+          "divident": 215790,
+          "winners": 10,
+          "winningAmount": 2157900,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 5,
+            "selectedCategoryCd": null
+          },
+          "divident": 7340,
+          "winners": 343,
+          "winningAmount": 2517620,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 6,
+            "selectedCategoryCd": null
+          },
+          "divident": 7290,
+          "winners": 296,
+          "winningAmount": 2157840,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 7,
+            "selectedCategoryCd": null
+          },
+          "divident": 1140,
+          "winners": 5929,
+          "winningAmount": 6759060,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 8,
+            "selectedCategoryCd": null
+          },
+          "divident": 1000,
+          "winners": 2780,
+          "winningAmount": 2780000,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 9,
+            "selectedCategoryCd": null
+          },
+          "divident": 457615270,
+          "winners": 1,
+          "winningAmount": 457615270,
+          "jackpot": 444419982,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 10,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 95976453,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 11,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 5648787,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 12,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": 1000000
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 13,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": 1000000
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 14,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": 500000
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 15,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": 500000
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 16,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 17,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 18,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 19,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 20,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4093,
+            "categoryCd": 21,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        }
+      ],
+      "subgameCats": [
+        1000000,
+        1000000,
+        500000,
+        500000
+      ]
+    },
+    {
+      "game": {
+        "gameStateId": 5271,
+        "mainGameCode": 0,
+        "gameCode": 5271,
+        "columnPrice": 100000,
+        "columnPrices": [
+          100000,
+          30000,
+          20000,
+          10000,
+          40000,
+          50000
+        ],
+        "active": null,
+        "drawNumber": 4092,
+        "virtualDrawNumber": 4092,
+        "deadline": 1510099200000,
+        "salesStart": null,
+        "salesEnd": null,
+        "originalDeadline": 1510099200000,
+        "minAllowedColumns": null,
+        "maxAllowedColumns": null,
+        "highestPrice": null,
+        "lastUpdated": null,
+        "maxMultiDraws": null
+      },
+      "id": null,
+      "drawNumber": 4092,
+      "columnPrice": 100000,
+      "drawDate": 1510099200000,
+      "status": 6,
+      "salesStart": null,
+      "salesEnd": null,
+      "winnersLoaded": null,
+      "totalColumns": null,
+      "totalColumns1": null,
+      "virtualDrawNumber": 4092,
+      "maxAdvandedDraws": 0,
+      "specialDraw": 0,
+      "jackpotAmount": 730000000,
+      "additionalJackpots": [
+        480000000,
+        110000000,
+        10000000,
+        480000000,
+        240000000
+      ],
+      "clmsPlayed": null,
+      "results": "21,13,6,15,30,29,8,7,2,8,35,36,31,10,11,7,4,39,28,27,25,33,30,8,32,1,15,28,8,22,30,33,6,34,31,5,2,25,6,8,10,26,21,16,6,14,1,26,11,3",
+      "prizes": [
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 1,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 443366758,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 2,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 3,
+            "selectedCategoryCd": null
+          },
+          "divident": 158870,
+          "winners": 14,
+          "winningAmount": 2224180,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 4,
+            "selectedCategoryCd": null
+          },
+          "divident": 37700,
+          "winners": 59,
+          "winningAmount": 2224300,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 5,
+            "selectedCategoryCd": null
+          },
+          "divident": 3020,
+          "winners": 737,
+          "winningAmount": 2225740,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 6,
+            "selectedCategoryCd": null
+          },
+          "divident": 2090,
+          "winners": 1063,
+          "winningAmount": 2221670,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 7,
+            "selectedCategoryCd": null
+          },
+          "divident": 1050,
+          "winners": 8908,
+          "winningAmount": 9353400,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 8,
+            "selectedCategoryCd": null
+          },
+          "divident": 1000,
+          "winners": 7372,
+          "winningAmount": 7372000,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 9,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 421041814,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 10,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 81224747,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 11,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 12,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": 1000000
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 13,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": 1000000
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 14,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": 500000
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 15,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": 500000
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 16,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 17,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 18,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 19,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 20,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        },
+        {
+          "id": {
+            "gameCd": 5271,
+            "drawCd": 4092,
+            "categoryCd": 21,
+            "selectedCategoryCd": null
+          },
+          "divident": 0,
+          "winners": 0,
+          "winningAmount": 0,
+          "jackpot": 0,
+          "fixedWinningAmount": null,
+          "categoryType": null,
+          "promotionId": null,
+          "consolidatedAmount": null,
+          "extraInfo": null,
+          "clmsPlayed": null,
+          "specialPrize": null,
+          "jubilazoCat": null
+        }
+      ],
+      "subgameCats": [
+        1000000,
+        1000000,
+        500000,
+        500000
+      ]
+    }
+  ]
+}
