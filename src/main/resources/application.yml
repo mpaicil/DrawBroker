@@ -1,0 +1,2 @@
+server:
+  context-path: /draw/broker/v1

@@ -1,5 +1,7 @@
 package com.slackmag.client;
 
+import java.time.LocalDate;
+
 public class PollaRequest {
 
     public Integer gameId;
@@ -7,11 +9,11 @@ public class PollaRequest {
     public String end;
     public ExtraArgs extraArgs;
 
-    public PollaRequest(){
+    public PollaRequest(Integer pageSize){
         gameId = 5271;
-        start = "2017-11-10";
-        end = "2017-11-10";
-        extraArgs = new ExtraArgs();
+        start = LocalDate.now().toString();
+        end = LocalDate.now().toString();
+        extraArgs = new ExtraArgs(pageSize);
     }
 
 }

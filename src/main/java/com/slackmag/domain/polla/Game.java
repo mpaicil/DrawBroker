@@ -7,7 +7,7 @@ public class Game {
     public Integer gameCode;
     public Integer drawNumber;
     public Integer virtualDrawNumber;
-    public Integer deadline;
-    public Integer originalDeadline;
+    public Long deadline;
+    public Long originalDeadline;
 
 }

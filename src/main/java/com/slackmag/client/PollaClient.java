@@ -11,12 +11,18 @@ import org.springframework.web.client.RestTemplate;
 @Component
 public class PollaClient {
 
+    private PollaRequest pollaRequest;
+
+    public void setPageSize( Integer number ){
+        pollaRequest = new PollaRequest(number);
+    }
+
     public SorteoDTO fetch(){
         RestTemplate restTemplate = new RestTemplate();
         HttpHeaders headers = new HttpHeaders();
         headers.add("Content-Type","application/json; charset=utf-8");
 
-        PollaRequest pollaRequest = new PollaRequest();
+        //pollaRequest = new PollaRequest(3);
 
         HttpEntity<PollaRequest> pollaRequestHttpEntity = new HttpEntity<PollaRequest>(pollaRequest,headers);
 
