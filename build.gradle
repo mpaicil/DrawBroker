@@ -1,3 +1,5 @@
+import sun.net.www.protocol.http.DigestAuthentication
+
 group 'com.slackmag'
 version '0.0.1-SNAPSHOT'
 
@@ -18,12 +20,19 @@ buildscript {
 
 repositories {
     mavenCentral()
+    maven {
+        url 'http://localhost:8081/nexus/content/repositories/releases/'
+        credentials {
+            username 'admin'
+            password 'admin123'
+        }
+    }
     mavenLocal()
 }
 
 dependencies {
     compile("org.springframework.boot:spring-boot-starter-web")
-    //compile "com.slackmag:drawdomain:0.0.1"
+    compile "com.slackmag:drawdomain:0.0.1"
     testCompile('org.springframework.boot:spring-boot-starter-test')
     testCompile group: 'junit', name: 'junit', version: '4.12'
 }
