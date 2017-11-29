@@ -1,0 +1,40 @@
+{
+  "currentPage": 1,
+  "pageSize": 2,
+  "totalPages": 2051,
+  "totalResults": 4101,
+  "items": [
+    {
+      "game": {
+        "gameStateId": 5271,
+        "gameCode": 5271,
+        "drawNumber": 4101,
+        "virtualDrawNumber": 4101,
+        "deadline": 1511913600000,
+        "originalDeadline": 1511913600000
+      },
+      "drawNumber": 4101,
+      "drawDate": 1511913600000,
+      "status": 6,
+      "virtualDrawNumber": 4101,
+      "jackpotAmount": 670000000,
+      "results": "3,17,35,14,25,13,12,34,28,2,17,9,3,20,19,25,9,14,35,3,10,32,5,14,11,22,13,21,32,26,18,30,8,25,35,11,29,40,38,37,30,2,36,29,7,15,30,23,6,6"
+    },
+    {
+      "game": {
+        "gameStateId": 5271,
+        "gameCode": 5271,
+        "drawNumber": 4100,
+        "virtualDrawNumber": 4100,
+        "deadline": 1511740800000,
+        "originalDeadline": 1511740800000
+      },
+      "drawNumber": 4100,
+      "drawDate": 1511740800000,
+      "status": 6,
+      "virtualDrawNumber": 4100,
+      "jackpotAmount": 630000000,
+      "results": "40,18,27,38,39,23,15,3,37,6,12,18,38,19,16,22,20,15,29,21,5,41,4,30,11,11,7,35,38,36,18,11,9,15,38,14,13,21,34,7,27,16,26,37,2,27,34,23,24,2"
+    }
+  ]
+}
