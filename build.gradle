@@ -1,5 +1,3 @@
-import sun.net.www.protocol.http.DigestAuthentication
-
 group 'com.slackmag'
 version '0.0.1-SNAPSHOT'
 
