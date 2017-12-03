@@ -1,2 +1,9 @@
 server:
   context-path: /draw/broker/v1
+
+loto:
+  validSize: 7
+revancha:
+  validSize: 6
+desquite:
+  validSize: 6
