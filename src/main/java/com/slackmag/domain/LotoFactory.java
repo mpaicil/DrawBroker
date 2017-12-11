@@ -15,7 +15,7 @@ public class LotoFactory {
         this.validSize = sizeNumber;
     }
 
-    public Loto createLoto(Integer[] values){
+    public static Loto createLoto(Integer[] values){
         Integer[] numbers = Arrays.copyOfRange(values,0,5);
         Integer joker = values[6];
 
